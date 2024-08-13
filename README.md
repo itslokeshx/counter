@@ -1,2 +1,2 @@
-# js2
-counter
+# counter
+Site Link: https://thelokesha.github.io/js2/
