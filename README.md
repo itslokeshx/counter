@@ -1,2 +1,2 @@
 # counter
-Site Link: https://itslokeshx.github.io/js2/
+Site Link: https://itslokeshx.github.io/counter/
